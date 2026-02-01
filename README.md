@@ -1,2 +1,4 @@
 # Demo
-Jai Shree Krishna! &lt;br> This is first time using git and github.
+Jai Shree Krishna! 
+<br> 
+This is first time using git and github.
